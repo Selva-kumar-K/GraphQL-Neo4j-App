@@ -11,6 +11,18 @@ const businesses = [
         address: "55 W 3rd Ave, San Mateo, CA 94402",
         reviewIds: ["r3"],
         },
+        {
+            businessId: "b3",
+            name: "Katherin Library",
+            address: "301 E Main St, Missoula, MT 59802",
+            reviewIds: ["r1", "r2"],
+        },
+        {
+            businessId: "b4",
+            name: "Ramakrishna Aided Library",
+            address: "55 W 3rd Ave, San Mateo, CA 94402",
+            reviewIds: ["r3"],
+            },
 ];
 
 const reviews = [
